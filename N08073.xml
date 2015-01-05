@@ -114,8 +114,8 @@
    <text xml:lang="eng">
       <body>
          <div type="text">
-            <pb facs="tcp:0F7E7FC3CDF58838:010300_0000_0F7E7334E943B498"/>
-            <pb n="1" facs="tcp:0F7E7FC3CDF58838:010300_0001_0F7E7335A62AC850"/>
+            <pb facs="unknown:010300_0000_0F7E7334E943B498"/>
+            <pb n="1" facs="unknown:010300_0001_0F7E7335A62AC850"/>
             <head>The EXAMINATION of Doctor <hi>BENJAMIN FRANKLIN,</hi> before an <hi>AUGUST ASSEMBLY,</hi> relating to the Repeal of the STAMP-ACT, <hi>&amp;c.</hi>
             </head>
             <p>Q. WHAT is your name, and place of abode?</p>
@@ -152,7 +152,7 @@
                </gap>r is by sea only.</p>
             <p>Q Can you disperse the stamps by post in Canada?</p>
             <p>
-               <pb n="2" facs="tcp:0F7E7FC3CDF58838:010300_0002_0F7E733664703770"/>A. There is only a post between Montreal and Quebec. The inhabitants live so scat<gap reason="illegible" resp="#PDCC" extent="1 letter">
+               <pb n="2" facs="unknown:010300_0002_0F7E733664703770"/>A. There is only a post between Montreal and Quebec. The inhabitants live so scat<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -231,7 +231,7 @@
                </gap> that suit for re<g ref="char:EOLhyphen"/>mittance to Brit in; which, together with all the profits on the industry of our merchants and mariners, arising in those ci<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>cuitous voyages, and the freights made by their ships, center finally in Britain, to discharge the bal<g ref="char:EOLhyphen"/>lance,
-<pb n="3" facs="tcp:0F7E7FC3CDF58838:010300_0003_0F7E73371DB679D0"/>
+<pb n="3" facs="unknown:010300_0003_0F7E73371DB679D0"/>
 and pay <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> British manufactures continually used in the province, or sold to foreig<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -290,7 +290,7 @@ and pay <gap reason="illegible" resp="#PDCC" extent="1 word">
                </gap>ed the commerce. Natives of Britain were always treated with particular <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>;
-<pb n="4" facs="tcp:0F7E7FC3CDF58838:010300_0004_0F7E73382A76DD68"/>
+<pb n="4" facs="unknown:010300_0004_0F7E73382A76DD68"/>
 to be an Old England-man, was, of itself, a character of some respect, and gave a kind of rank among us.</p>
             <p>Q. And what is their temper now?</p>
             <p>A. O, very much altered.</p>
@@ -318,7 +318,7 @@ to be an Old England-man, was, of itself, a character of some respect, and gave 
             <p>A. Yes, I have heard of such resolutions.</p>
             <p>Q. What will be the opinion of the Americans on those resolutions?</p>
             <p>
-               <pb n="5" facs="tcp:0F7E7FC3CDF58838:010300_0005_0F7E7338A4AA0068"/>A. They will think them unconstitutional, and unjust.</p>
+               <pb n="5" facs="unknown:010300_0005_0F7E7338A4AA0068"/>A. They will think them unconstitutional, and unjust.</p>
             <p>Q. Was it an opinion in America before 1763, that the parliament <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ad no right to lay taxes and duties there?</p>
@@ -338,7 +338,7 @@ to be an Old England-man, was, of itself, a character of some respect, and gave 
             <p>Q. But in case a governor, acting by instruction, should call on an assem<g ref="char:EOLhyphen"/>bly to raise the necessary supplies, and the assembly should refuse to do it, do you not think it would then be for the good of the people of the colony, as well as necessary to government, that the parliament should tax them?</p>
             <p>A. I do not think it would be necessary. If an assembly could possibly be so absurd as to refuse raising the supplies requisite for the maintenance of government among them, they could not long remain in such a situation; the disorders and confusion occasioned by it must soon bring them to reason.</p>
             <p>
-               <pb n="6" facs="tcp:0F7E7FC3CDF58838:010300_0006_0F7E73395B80DCF0"/>Q. If it should not, ought not the right to be in Great-Britain of applying a remedy?</p>
+               <pb n="6" facs="unknown:010300_0006_0F7E73395B80DCF0"/>Q. If it should not, ought not the right to be in Great-Britain of applying a remedy?</p>
             <p>A. A right only to be used in such a case, I should have no objection to, supp<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>sing it to be used merely for the good of the people of the Colony.</p>
@@ -375,7 +375,7 @@ to be an Old England-man, was, of itself, a character of some respect, and gave 
             <p>Q. Are not the people, in the more Northern Colonies, obliged to sodder their sheep all the winter?</p>
             <p>A. In some of the most Northern Colonies they may be obliged to do it some part of the winter.</p>
             <p>
-               <pb n="7" facs="tcp:0F7E7FC3CDF58838:010300_0007_0F7E733A697426F0"/>Q. Considering the resolutions of parliament, as to the right, do you think, if the stamp-act is repealed, that the North Americans will be sa<g ref="char:EOLhyphen"/>tisfied?</p>
+               <pb n="7" facs="unknown:010300_0007_0F7E733A697426F0"/>Q. Considering the resolutions of parliament, as to the right, do you think, if the stamp-act is repealed, that the North Americans will be sa<g ref="char:EOLhyphen"/>tisfied?</p>
             <p>A. I believe they will.</p>
             <p>Q Why do you think so?</p>
             <p>A. I think the r<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -414,7 +414,7 @@ to be an Old England-man, was, of itself, a character of some respect, and gave 
             <p>Q. Have not some governors dispensed with them for that reason?</p>
             <p>A. Yes; I have heard so.</p>
             <p>
-               <pb n="8" facs="tcp:0F7E7FC3CDF58838:010300_0008_0F7E733AD894FBE8"/>Q. Did the Americans ever dispute the controling power of parliament to regulate the commerce?</p>
+               <pb n="8" facs="unknown:010300_0008_0F7E733AD894FBE8"/>Q. Did the Americans ever dispute the controling power of parliament to regulate the commerce?</p>
             <p>A. No.</p>
             <p>Q. Can any thing less than a military force carry the stamp-act into exe<g ref="char:EOLhyphen"/>cution?</p>
             <p>A. I do not see how a military force can be applied to that purpose.</p>
@@ -443,7 +443,7 @@ to be an Old England-man, was, of itself, a character of some respect, and gave 
                   <desc>•</desc>
                </gap>n may still, as before the act, send his letter by a servant, a special messenger, or a friend, if he thinks it cheaper and safer.</p>
             <p>
-               <pb n="9" facs="tcp:0F7E7FC3CDF58838:010300_0009_0F7E733E9F5EC300"/>Q. But do they not consider the regulations of the post-office, by the act of last year, as a tax?</p>
+               <pb n="9" facs="unknown:010300_0009_0F7E733E9F5EC300"/>Q. But do they not consider the regulations of the post-office, by the act of last year, as a tax?</p>
             <p>A. By the regulations of last year the rate of postage was generally abated near thirty per cent. through all America; they certainly cannot consider such abatement as a tax.</p>
             <p>Q. If an excise was laid by parliament, which they might likewise avoid paying, by not consuming the articles excised, would they then not object to it?</p>
             <p>A. They would certainly object to it, as an excise is unconnected with any servi<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -487,7 +487,7 @@ to be an Old England-man, was, of itself, a character of some respect, and gave 
             <p>Q. Would they suffer the produce of their lands to rot?</p>
             <p>A. No; but they would not raise so much. They would manufacture more, and plough less.</p>
             <p>
-               <pb n="10" facs="tcp:0F7E7FC3CDF58838:010300_0010_0F7E733FB2D4AA30"/>Q. Would they live without the administration of justice in civil matters, and suff<gap reason="illegible" resp="#PDCC" extent="1 letter">
+               <pb n="10" facs="unknown:010300_0010_0F7E733FB2D4AA30"/>Q. Would they live without the administration of justice in civil matters, and suff<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>r all the inconveniencies of such a situation for any considerable time, rather than take the stamps, supposing the stamps were protected by a suffi<g ref="char:EOLhyphen"/>cient force, where every one might have them?</p>
             <p>A. I think the supposition impracticable, that the stamps should be so pro<g ref="char:EOLhyphen"/>tected as that every one might have them. The act requires sub-distributors to be appointed in every county town, district and village, and they would be necessary. But the principa<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -555,7 +555,7 @@ to be an Old England-man, was, of itself, a character of some respect, and gave 
                <g ref="char:punc">▪</g>
             </p>
             <p>
-               <pb n="11" facs="tcp:0F7E7FC3CDF58838:010300_0011_0F7E73402394DB30"/>Q. Are there any fulling mills there?</p>
+               <pb n="11" facs="unknown:010300_0011_0F7E73402394DB30"/>Q. Are there any fulling mills there?</p>
             <p>A. A great many.</p>
             <p>Q. Did you never hear that a great quantity of stockings were contracted for for the army during the war, and manufactured in Philadelphia?</p>
             <p>A. I have heard so.</p>
@@ -589,7 +589,7 @@ to be an Old England-man, was, of itself, a character of some respect, and gave 
                </gap>. The Colonies were recom<g ref="char:EOLhyphen"/>mended to parliament. Every year the King sent down to the house a <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>
-               <pb n="12" facs="tcp:0F7E7FC3CDF58838:010300_0012_0F7E7340E18DAD08"/>
+               <pb n="12" facs="unknown:010300_0012_0F7E7340E18DAD08"/>
 message to this purpose, That his Majesty, being highly sensible of the zeal and vigour with which his faithful subjects in North-America had exert<g ref="char:EOLhyphen"/>ed themselves, in defence of his Majesty's just rights and possessions, recom<g ref="char:EOLhyphen"/>mended it to the house to take the same into consideration, and enable him to give them a proper compensation. You will find those messages on your own journals every year of the war to the very last, and you did accordingly give 200,000 Pounds annually to the Crown, to be distributed in such com<g ref="char:EOLhyphen"/>pensation to the Colonies. This is the strongest of all proofs that the Colo<g ref="char:EOLhyphen"/>nies, far from being unwilling to bear a share of the burthen, did exceed their proportion; for if they had done less, or had only equalled their pro<g ref="char:EOLhyphen"/>po<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>tion, there would have been no room or reason for compensation.—In<g ref="char:EOLhyphen"/>deed the su<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -601,7 +601,7 @@ message to this purpose, That his Majesty, being highly sensible of the zeal and
                </gap> really a British war—and yet the people of America made no scruple of contributing their utmost towards carrying it on, and bringing it to a happy conclusion.</p>
             <p>Q. Do you think then that the taking possession of the King's territorial rights, and strengthening the frontiers, is not an American interest?</p>
             <p>
-               <pb n="13" facs="tcp:0F7E7FC3CDF58838:010300_0013_0F7E73419CC1FBF8"/>A. Not particularly, but conjointly a British and an American interest.</p>
+               <pb n="13" facs="unknown:010300_0013_0F7E73419CC1FBF8"/>A. Not particularly, but conjointly a British and an American interest.</p>
             <p>Q. You will not deny that the preceding war, the war with Spain, was entered into for the sake of America; was it not occasioned by captures made in the American seas?</p>
             <p>A. Yes; captures of ships carrying on the British trade there, with British manufactures.</p>
             <p>Q. Was not the late war with the Indians, since the peace with France, a war for America only?</p>
@@ -627,7 +627,7 @@ message to this purpose, That his Majesty, being highly sensible of the zeal and
                </gap>
             </p>
             <p>
-               <pb n="14" facs="tcp:0F7E7FC3CDF58838:010300_0014_0F7E7342790DFCD0"/>A. That is a deep question.— As to my own opinion, I should think my<g ref="char:EOLhyphen"/>self at liberty to do it, and should do it, if I liked the occasion.</p>
+               <pb n="14" facs="unknown:010300_0014_0F7E7342790DFCD0"/>A. That is a deep question.— As to my own opinion, I should think my<g ref="char:EOLhyphen"/>self at liberty to do it, and should do it, if I liked the occasion.</p>
             <p>Q. When money has been raised in the Colonies upon requisitions, has it not been granted to the King?</p>
             <p>A. Yes, always; but the requisitions have generally been for some service expressed, as to raise, clothe and pay troops, and not for money only.</p>
             <p>Q. If the act should pass, requiring the American assemblies to make com<g ref="char:EOLhyphen"/>pensation to the sufferers, and they should disobey it, and then the parlia<g ref="char:EOLhyphen"/>ment should, by another act, lay an internal tax, would they then obey it?</p>
@@ -664,7 +664,7 @@ message to this purpose, That his Majesty, being highly sensible of the zeal and
             <p>A. I mean the usual way of requisition, in a circular letter from the secre<g ref="char:EOLhyphen"/>tary of state, by his Majesty's command, reciting the occasion, and recom<g ref="char:EOLhyphen"/>mending it to the Colonies to grant such aids as became their loyalty, and were suitable to their abilities.</p>
             <p>Q. Did the secretary of state ever write for money for the Crown?</p>
             <p>
-               <pb n="15" facs="tcp:0F7E7FC3CDF58838:010300_0015_0F7E734342A0A350"/>A. The requisitions have been to raise, clothe and pay men, which cannot be done without money.</p>
+               <pb n="15" facs="unknown:010300_0015_0F7E734342A0A350"/>A. The requisitions have been to raise, clothe and pay men, which cannot be done without money.</p>
             <p>Q. Would they grant money alone, if called on?</p>
             <p>A. In my opinion they would, money as well as men, when they have mo<g ref="char:EOLhyphen"/>ney, or can make it.</p>
             <p>Q. If the parliament should repeal the stamp-act, will the assembly of Penn<g ref="char:EOLhyphen"/>sylvania rescind their resolutions?</p>
@@ -699,7 +699,7 @@ message to this purpose, That his Majesty, being highly sensible of the zeal and
                <g ref="char:punc">▪</g> quartering troops on private houses, and the like; there may be great im<g ref="char:EOLhyphen"/>positions, that are not properly taxes.</p>
             <p>Q. Is not the post-office rate an internal tax laid by act of parliament?</p>
             <p>
-               <pb n="16" facs="tcp:0F7E7FC3CDF58838:010300_0016_0F7E7343F009DA00"/>A. I have <gap reason="illegible" resp="#PDCC" extent="1 letter">
+               <pb n="16" facs="unknown:010300_0016_0F7E7343F009DA00"/>A. I have <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>nswered that.</p>
             <p>Q. Are all parts of the Colonies equally able to pay taxes?</p>
